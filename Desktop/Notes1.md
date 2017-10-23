@@ -17,4 +17,7 @@ A name which maps to a unique value.
 A collection of Name/Value Pairs.
 - Simplest definition in **JavaScript**.
 
-_Paused Here_
+#Global#
+"Not inside a function."
+
+_Paused at 010_
