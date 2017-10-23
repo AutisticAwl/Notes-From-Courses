@@ -12,3 +12,9 @@ A wrapper to help manage the code that is running.
 #Name/Value Pair#
 A name which maps to a unique value.
 - Name may be defined more than once, but only one value at any given **Context**.
+
+#Object#
+A collection of Name/Value Pairs.
+- Simplest definition in **JavaScript**.
+
+_Paused Here_
