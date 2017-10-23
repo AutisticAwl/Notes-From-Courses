@@ -20,4 +20,22 @@ A collection of Name/Value Pairs.
 #Global#
 "Not inside a function."
 
-_Paused at 010_
+##Execution Context is Created##
+Global Object		‘this’			Outer Environment 
+	Setup Memory Space for Variables and Functions
+			#”Hoisting”#
+
+##Execution Context Runs Code##
+Global Object		‘this’			Outer Environment
+		Runs Your Code 
+
+#Single Threaded#
+One command at a time. 
+
+#Synchronous#
+One at a time. 
+
+#Invocation#
+Running a function. 
+_By using ()._	
+						
