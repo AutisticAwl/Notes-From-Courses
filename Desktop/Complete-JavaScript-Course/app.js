@@ -1,4 +1,4 @@
-// Lecture: Variables
+/* Lecture: Variables
 var name =  'John';
 console.log(name);
 
@@ -7,3 +7,4 @@ console.log(lastName);
 
 var age = 26;
 console.log(age);
+*/
